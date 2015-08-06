@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/117/njp.32101010943940/929.png"; bbox 0 0 1904 3072; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 701 430 937 451">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 701 430 937 451">
+     <span class='ocr_line' id='line_1_1' title="bbox 701 430 937 451; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 701 436 791 451; x_wconf 61' lang='grc' dir='ltr'>μιμεῖται</span> <span class='ocrx_word' id='word_1_2' title='bbox 801 430 937 451; x_wconf 52' lang='grc' dir='ltr'>μεινξμὲξηὰέε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 585 428 1096 583">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 585 428 1096 583">
+     <span class='ocr_line' id='line_1_2' title="bbox 585 428 1096 583; baseline -0.012 2"><span class='ocrx_word' id='word_1_3' title='bbox 585 428 1096 583; x_wconf 54' lang='lat' dir='ltr'>|\u,aummnwmmml</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 627 549 952 596">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 627 549 952 596">
+     <span class='ocr_line' id='line_1_3' title="bbox 627 549 952 596; baseline -0.04 1"><span class='ocrx_word' id='word_1_4' title='bbox 627 549 756 596; x_wconf 54' lang='lat'>£52301</span> <span class='ocrx_word' id='word_1_5' title='bbox 816 549 952 589; x_wconf 88' lang='lat'>01094</span> 
+     </span>
+    </p>
+   </div>
+  </div>
